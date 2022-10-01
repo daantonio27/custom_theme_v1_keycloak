@@ -1,0 +1,36 @@
+.login-pf body {
+    background: none !important;
+    background-color: white !important;
+}
+
+#kc-header {
+    align-self: center;
+    color: black;
+}
+
+.card-pf {
+    border-radius: 30px
+}
+
+.pf-c-button {
+    border-radius: 30px
+}
+.login-pf body {
+    background: none;
+    background-color: white !important;
+}
+
+#wrapper_form{
+    display: flex;
+}
+
+#kc-content-wrapper .form-group {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
